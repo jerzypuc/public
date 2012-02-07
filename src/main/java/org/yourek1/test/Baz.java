@@ -6,4 +6,6 @@ package org.yourek1.test;
  * Time: 2:16 PM
  */
 public class Baz {
+    public Baz() {
+    }
 }
