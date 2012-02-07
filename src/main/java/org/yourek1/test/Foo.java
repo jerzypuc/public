@@ -1,4 +1,4 @@
-package org.yourek.test;
+package org.yourek1.test;
 
 /**
  * User: jpuchala
