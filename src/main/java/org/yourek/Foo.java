@@ -6,4 +6,5 @@ package org.yourek;
  * Time: 2:05 PM
  */
 public class Foo {
+  // addin dummy comment
 }
